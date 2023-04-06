@@ -1,5 +1,6 @@
 # ShoppingCart
 
+This project use Vite + React
 
 ## Table of Contents
 
