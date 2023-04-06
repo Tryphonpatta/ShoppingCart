@@ -1,0 +1,42 @@
+.App{
+  display : flex;
+  width: 100%;
+  justify-content: center;
+  gap: 100px;
+}
+.choice{
+  display : flex;
+  gap : 20px;
+  margin-top: 3px;
+  align-items: center;
+  height: 25px;
+}
+.selectedList{
+  display : flex;
+  gap : 20px;
+  height: 25px;
+  align-items: center;
+  /* justify-content: left; */
+}
+.list {
+  display: block;
+  width : 450px;
+}
+.receipt{
+  display : flex;
+  flex-direction: column;
+  width : 450px;
+}
+.but{
+  height : '20px';
+  color : white;
+  background-color:  #FA9884;
+  border: 1px white solid;
+  border-radius: 3px;
+}
+.but:hover {
+  color : #FA9884;
+  background-color: white;
+  border: 1px  #FA9884 solid;
+  transition-duration: 400ms;
+}
