@@ -32,4 +32,4 @@ Contributions are welcome! Please follow the below guidelines when contributing:
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
