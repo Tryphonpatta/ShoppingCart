@@ -2,6 +2,7 @@
 
 This project use Vite + React
 https://shoppingcartttttbygolf.netlify.app/
+![image](https://github.com/Tryphonpatta/ShoppingCart/assets/98245320/36e05f37-396c-4ff9-9793-6dcf2cbc95d0)
 
 ## Table of Contents
 
